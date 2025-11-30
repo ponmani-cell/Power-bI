@@ -1,2 +1,39 @@
-Project Name
-Analysis on imports from Africa(2019-2025)
+
+# Analysis on imports from africa (2019-2025)
+
+This project express varisation and trends pattern of imports commodities by country
+This repository contains a Power BI dashboard for the analysis of India's import data from Africa between the fiscal years 2019 and 2025. The dashboard provides an interactive and visual overview of trade flows, identifying key trends, top commodities, and regional import patterns. 
+
+
+## Documentation
+
+[Cleaned data](https://docs.google.com/spreadsheets/d/1ndOq7CkYkeeECcU2VNAW08G2YYOO23XOQVW9PKHcvOU/edit?usp=sharing)
+
+[Raw data](https://docs.google.com/spreadsheets/d/1PXphUH-2l38_Un58XCaZpDayUuL8tg7PypugLleSe7k/edit?usp=sharing)
+
+Data source:
+The data used in this project is sourced from reliable government and trade bodies, including:
+Ministry of Commerce and Industry, Government of India
+Confederation of Indian Industry (CII) reports
+EXIM Bank reports
+Other international trade data platforms
+The original data files (e.g., CSV or Excel) may be included in the repository or linked to their source for transparency and reproducibility.
+## 🔗 Links
+
+[![linkedin](https://www.linkedin.com/in/ponmani-s-9b3b37395/)](https://www.linkedin.com/)
+
+
+
+## tech
+
+Technologies used
+Microsoft Power BI Desktop: For data transformation, modeling, and visualization.
+DAX (Data Analysis Expressions): For creating custom measures and calculated columns to enhance analysis.
+Power Query: For data cleaning and shaping
+
+
+## Another project
+
+Here are some related project(https://docs.google.com/document/d/1REZ9knzrY623QgBS7hWxSKqCa27zt4mBe44_ln-qs1g/edit?usp=drive_link)
+
+
